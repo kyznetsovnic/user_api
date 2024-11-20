@@ -21,12 +21,16 @@
             "gender": "m", // m - man or w - woman
        }
 ```
+![alt text](docs/register.png)
+
 #### Список пользователей:
 ```
    GET /users
 ``` 
+![alt text](docs/list.png)
 
 #### Профиль пользователя:
 ```
    GET /users/{id}/profile
 ```   
+![alt text](docs/profile.png)
